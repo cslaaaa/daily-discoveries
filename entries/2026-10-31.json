@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "title": "每日实用发现｜提取屏幕文字，练听力，认识节奏",
+  "intro": "三个可以直接尝试的小功能和学习资源。",
+  "items": [
+    {
+      "id": "windows-snipping-text",
+      "name": "Windows 11 截图工具：文本操作",
+      "category": "效率工具",
+      "summary": "从截图中的文字区域提取可复制文字的系统功能。",
+      "useCase": "处理报错窗口、图片或视频暂停画面上的一小段文字，减少重新输入。",
+      "gettingStarted": "按 Win＋Shift＋S 截取区域，打开截图，点击“文本操作”复制所需文字。",
+      "costAndLimits": "系统内置，无需另买软件；旧版可能需要更新。公式、表格和模糊文字仍需人工核对。",
+      "links": [
+        {
+          "label": "微软操作说明",
+          "url": "https://support.microsoft.com/en-au/windows/apps/use-snipping-tool-to-capture-screenshots"
+        }
+      ],
+      "verifiedOn": "2026-10-31"
+    },
+    {
+      "id": "british-council-design",
+      "name": "British Council B2：A design presentation",
+      "category": "学习",
+      "summary": "将音频、文字稿和理解练习放在同一页面的英语听力课。",
+      "useCase": "减少自行寻找音频、原文和配套练习的时间。",
+      "gettingStarted": "先盲听一次并做题，再对照文字稿找漏听的部分，最后用三句话复述。",
+      "costAndLimits": "这篇资源免费，无需购买站内课程；B2 是中高级练习级别，不等于雅思成绩评定。",
+      "links": [
+        {
+          "label": "开始这篇听力",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/listening/b2/design-presentation"
+        }
+      ],
+      "verifiedOn": "2026-10-31"
+    },
+    {
+      "id": "ableton-learning-music",
+      "name": "Ableton Learning Music",
+      "category": "艺术",
+      "summary": "通过点击方格组合鼓、贝斯、和弦和旋律的中文互动课程。",
+      "useCase": "直接听见改变后的效果，为节奏和音乐层次建立直觉。",
+      "gettingStarted": "打开后先开关首页几组声音，再尝试“鼓的创作”。",
+      "costAndLimits": "免费，无需购买 Ableton 或音乐设备；浏览器需启用 JavaScript。它是入门学习工具，不是完整制作软件。",
+      "links": [
+        {
+          "label": "中文版体验",
+          "url": "https://learningmusic.ableton.com/zh-Hans/"
+        },
+        {
+          "label": "官方说明",
+          "url": "https://www.ableton.com/en/blog/learn-music-in-your-browser/"
+        }
+      ],
+      "verifiedOn": "2026-10-31"
+    }
+  ]
+}
