@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-01",
+  "title": "每日实用发现｜画清想法，准备饭菜，补编程基础",
+  "intro": "白板、中文菜谱与短小编程练习，各解决一个具体问题。",
+  "items": [
+    {
+      "id": "excalidraw",
+      "name": "Excalidraw",
+      "category": "效率工具",
+      "summary": "适合快速绘制流程和关系的手绘风格白板。",
+      "useCase": "在开始搭建前画清工作流、游戏规则或知识结构。",
+      "gettingStarted": "先画“输入 → 处理 → 输出”三个框，在箭头旁写明传递的内容。",
+      "costAndLimits": "基础网页版免费，可导出 PNG、SVG 和可继续编辑的文件。默认保存在当前浏览器，重要图应另存；云端工作区另有付费版。",
+      "links": [
+        {
+          "label": "直接打开",
+          "url": "https://excalidraw.com/"
+        },
+        {
+          "label": "官方功能说明",
+          "url": "https://github.com/excalidraw/excalidraw"
+        }
+      ],
+      "verifiedOn": "2026-11-01"
+    },
+    {
+      "id": "how-to-cook",
+      "name": "程序员做饭指南",
+      "category": "生活",
+      "summary": "尽量写清材料、用量与步骤的中文开源菜谱。",
+      "useCase": "准备一顿饭时减少对“适量”的猜测，也可学习厨房准备、用刀等基础内容。",
+      "gettingStarted": "按手头食材从目录挑一道菜，开火前先备齐材料并通读步骤。",
+      "costAndLimits": "免费，直接浏览即可，不用安装。内容是社区经验汇总，并非统一测试过的标准；锅具和火力不同，时间与调味仍需调整。",
+      "links": [
+        {
+          "label": "中文菜谱目录",
+          "url": "https://github.com/Anduin2017/HowToCook"
+        }
+      ],
+      "verifiedOn": "2026-11-01"
+    },
+    {
+      "id": "exercism-python",
+      "name": "Exercism Python",
+      "category": "开发",
+      "summary": "通过短小代码练习、测试和反馈学习编程语言的平台。",
+      "useCase": "练习函数、条件和数据处理，逐步理解代码而不只复制现成项目。",
+      "gettingStarted": "选择 Python 路线，用浏览器编辑器做第一题，无需先配置本地开发环境。",
+      "costAndLimits": "练习和志愿者指导免费，参与需注册；侧重语言练习，不能替代完整项目实践。",
+      "links": [
+        {
+          "label": "Python 练习入口",
+          "url": "https://exercism.org/tracks/python"
+        },
+        {
+          "label": "官方入门说明",
+          "url": "https://exercism.org/docs/using/getting-started"
+        }
+      ],
+      "verifiedOn": "2026-11-01"
+    }
+  ]
+}
