@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "date": "2026-10-27",
+      "path": "entries/2026-10-27.json",
+      "sha256": "f9c96de250a7192aba34acfa0f95d5978f464e073817c70a684b0122f527f7a7"
+    },
+    {
+      "date": "2026-10-28",
+      "path": "entries/2026-10-28.json",
+      "sha256": "f39e9c8b5fc4e0fabb96495de3b877dbb41c2b62b5592c251f83f9857ed80ed3"
+    },
+    {
+      "date": "2026-10-29",
+      "path": "entries/2026-10-29.json",
+      "sha256": "3c4fb281e8c4a990c160d44b3068202fccc1eeb06f841e1908f22a5f1515060e"
+    },
+    {
+      "date": "2026-10-30",
+      "path": "entries/2026-10-30.json",
+      "sha256": "6184f93c5b5148e82fd7b672ce4f1f67d9e3efae30230d89465f2e201a98cd8e"
+    },
+    {
+      "date": "2026-10-31",
+      "path": "entries/2026-10-31.json",
+      "sha256": "7592abf452a446174635fe299c56ebe9d54cd19a4c46ea67c63629e140c3b7e7"
+    },
+    {
+      "date": "2026-11-01",
+      "path": "entries/2026-11-01.json",
+      "sha256": "f3245d13cda0357ee8b6204dc1081da3ef8a61881b498f6dff0341e397e0a2fa"
+    }
+  ]
+}
