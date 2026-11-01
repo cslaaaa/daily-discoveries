@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "title": "每日实用发现｜传文件、剪视频、看世界",
+  "intro": "三个分别帮助文件传输、视频裁剪和理解世界趋势的工具。",
+  "items": [
+    {
+      "id": "localsend",
+      "name": "LocalSend",
+      "category": "效率工具",
+      "summary": "免费开源的局域网跨平台文件传输工具。",
+      "useCase": "在 Windows 与 Android 等设备之间传文件，不必先上传到云盘。",
+      "gettingStarted": "从官网获取对应设备版本，让两台设备连接同一局域网后选择文件发送。",
+      "costAndLimits": "无需账户；与云盘同步不同，主要用于本地网络传输。访客网络、设备隔离或防火墙可能影响发现，不适合替代互联网远程传输。",
+      "links": [
+        {
+          "label": "官网",
+          "url": "https://localsend.org/"
+        }
+      ],
+      "verifiedOn": "2026-10-28"
+    },
+    {
+      "id": "losslesscut",
+      "name": "LosslessCut",
+      "category": "效率工具",
+      "summary": "通过尽量避免重新编码，快速裁剪视频和音频的开源工具。",
+      "useCase": "从长录像中去掉开头、结尾或取出片段，减少重新导出等待。",
+      "gettingStarted": "从官方仓库发布入口获取版本，打开视频，设置开始和结束标记后导出片段。",
+      "costAndLimits": "GitHub 发布版免费，部分应用商店版本收费。无损剪切常受关键帧限制，切点不一定逐帧精确，输出前应检查边界。",
+      "links": [
+        {
+          "label": "官方项目",
+          "url": "https://github.com/mifi/lossless-cut"
+        }
+      ],
+      "verifiedOn": "2026-10-28"
+    },
+    {
+      "id": "gapminder-tools",
+      "name": "Gapminder Tools",
+      "category": "学习",
+      "summary": "用动态图表探索各国人口、收入、健康等长期趋势。",
+      "useCase": "将孤立的数字放回时间和地区背景中，观察变化与差异。",
+      "gettingStarted": "打开工具，选择两个指标和国家，播放时间轴或拖动年份比较变化。",
+      "costAndLimits": "免费在线浏览；历史数据可能包含估计值，图中的相关变化不能直接证明因果关系。",
+      "links": [
+        {
+          "label": "交互工具",
+          "url": "https://www.gapminder.org/tools/"
+        }
+      ],
+      "verifiedOn": "2026-10-28"
+    }
+  ]
+}
