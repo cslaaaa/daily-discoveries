@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-27",
+  "title": "每日实用发现｜整理文档，理解经济与概率",
+  "intro": "从离线文档处理到经济与概率入门，三个可以直接开始的实用资源。",
+  "items": [
+    {
+      "id": "pdf24-creator",
+      "name": "PDF24 Creator",
+      "category": "效率工具",
+      "summary": "免费离线 Windows PDF 工具，支持合并、压缩和 OCR 文字识别。",
+      "useCase": "将零散 PDF 合并为一份，压缩过大的文档，或为扫描件增加可搜索文字。",
+      "gettingStarted": "打开官方页面下载 Windows 版本，先用一份副本测试合并或 OCR 功能。",
+      "costAndLimits": "桌面版免费，处理可以在本机完成；适用于 Windows。OCR 结果尤其是公式、表格和模糊文字需要核对。",
+      "links": [
+        {
+          "label": "官方桌面版",
+          "url": "https://tools.pdf24.org/en/creator"
+        }
+      ],
+      "verifiedOn": "2026-10-27"
+    },
+    {
+      "id": "core-econ-economy",
+      "name": "CORE Econ：The Economy 2.0",
+      "category": "学习",
+      "summary": "通过现实问题和具体案例理解经济学的免费英文教材。",
+      "useCase": "借助借贷等生活场景，理解激励、信息和制度，而不只记住抽象术语。",
+      "gettingStarted": "先读“Lenders and borrowers”中的 Chambar 放贷案例，再沿章节继续理解借贷关系。",
+      "costAndLimits": "教材在线免费；英文原版需要一定阅读基础，案例与模型不构成个人投资建议。",
+      "links": [
+        {
+          "label": "借贷案例入口",
+          "url": "https://books.core-econ.org/the-economy/microeconomics/09-lenders-borrowers-01-chambar-moneylenders.html"
+        }
+      ],
+      "verifiedOn": "2026-10-27"
+    },
+    {
+      "id": "seeing-theory",
+      "name": "Seeing Theory 中文版",
+      "category": "学习",
+      "summary": "用可交互图形讲解基础概率和统计概念。",
+      "useCase": "通过改变参数、重复试验观察结果，建立概率直觉。",
+      "gettingStarted": "从基础概率页面开始，动手试其中的演示，再对照页面说明理解结果。",
+      "costAndLimits": "免费网页资源，无需登录；项目已归档，适合作为成熟教学材料，不应当作持续更新的统计软件。",
+      "links": [
+        {
+          "label": "基础概率中文版",
+          "url": "https://seeing-theory.brown.edu/basic-probability/cn.html"
+        }
+      ],
+      "verifiedOn": "2026-10-27"
+    }
+  ]
+}
