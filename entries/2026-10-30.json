@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "title": "每日实用发现｜管理资料，理解合作，寻找艺术配图",
+  "intro": "从来源与引用管理，到交互式博弈体验，再到开放艺术馆藏。",
+  "items": [
+    {
+      "id": "zotero",
+      "name": "Zotero",
+      "category": "效率工具",
+      "summary": "用于采集资料、组织文献和生成参考文献的工具。",
+      "useCase": "将网页、论文信息和可获取的全文一起保存，减少查找来源与填写引文的重复劳动。",
+      "gettingStarted": "安装桌面版和 Connector，建一个主题收藏夹，先保存三篇资料。",
+      "costAndLimits": "软件免费；免费云端附件同步额度为 300 MB，本地存储不受这个额度限制。云端扩容另计费，不能绕过论文付费墙。",
+      "links": [
+        {
+          "label": "下载与入门",
+          "url": "https://www.zotero.org/download/"
+        },
+        {
+          "label": "容量说明",
+          "url": "https://www.zotero.org/support/kb/storage_quota_and_local_storage"
+        }
+      ],
+      "verifiedOn": "2026-10-30"
+    },
+    {
+      "id": "evolution-of-trust",
+      "name": "信任的进化",
+      "category": "学习",
+      "summary": "Nicky Case 制作的交互作品，通过小游戏探索合作与欺骗策略。",
+      "useCase": "观察重复相遇、误会等条件如何改变策略表现，帮助理解简化博弈机制。",
+      "gettingStarted": "打开中文版，先体验前几轮选择，再观察不同条件下的结果。",
+      "costAndLimits": "免费网页体验，完整约 30 分钟。它是简化模型，不能直接当作现实人际关系的万能公式。",
+      "links": [
+        {
+          "label": "作者入口",
+          "url": "https://ncase.me/trust/"
+        },
+        {
+          "label": "中文版",
+          "url": "https://dccxi.com/trust/"
+        }
+      ],
+      "verifiedOn": "2026-10-30"
+    },
+    {
+      "id": "met-open-access",
+      "name": "大都会博物馆开放馆藏",
+      "category": "艺术",
+      "summary": "可浏览绘画、器物、织物等艺术作品的高清馆藏。",
+      "useCase": "为文章寻找有出处的艺术配图，或参考配色、纹样和构图。",
+      "gettingStarted": "从已筛选的开放馆藏页面搜索主题或艺术家，进入作品页检查标记后下载。",
+      "costAndLimits": "带 OA（Open Access）标记的馆方图片按 CC0 免费开放，不代表全站图片都可任意使用；使用前核对单件标记，建议保留作品名、作者和来源。",
+      "links": [
+        {
+          "label": "浏览开放馆藏",
+          "url": "https://www.metmuseum.org/art/collection/search?searchField=All&showOnly=openAccess&sortBy=relevance"
+        },
+        {
+          "label": "馆方使用说明",
+          "url": "https://www.metmuseum.org/policies/image-resources"
+        }
+      ],
+      "verifiedOn": "2026-10-30"
+    }
+  ]
+}
