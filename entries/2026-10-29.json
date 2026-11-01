@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "title": "每日实用发现｜压缩图片，动手学科学，阅读经典",
+  "intro": "轻量图片工具、中文科学仿真与排版认真的英文经典。",
+  "items": [
+    {
+      "id": "squoosh",
+      "name": "Squoosh",
+      "category": "效率工具",
+      "summary": "可在浏览器中对比压缩前后效果的图片压缩工具。",
+      "useCase": "减小博客配图或封面体积，同时检查画质是否足够清晰。",
+      "gettingStarted": "拖入一张图片，选择格式并调整质量，用对比视图检查后保存。",
+      "costAndLimits": "免费，图片在本机浏览器处理；项目会收集访问和压缩前后大小等统计信息。文字截图应留意细小文字的清晰度。",
+      "links": [
+        {
+          "label": "打开工具",
+          "url": "https://squoosh.app/"
+        },
+        {
+          "label": "隐私说明",
+          "url": "https://github.com/GoogleChromeLabs/squoosh#privacy"
+        }
+      ],
+      "verifiedOn": "2026-10-29"
+    },
+    {
+      "id": "phet-energy-skate-park",
+      "name": "PhET：能量滑板竞技场基础",
+      "category": "学习",
+      "summary": "科罗拉多大学提供的中文交互科学仿真。",
+      "useCase": "通过改变轨道和摩擦，观察动能、势能与热能如何转换。",
+      "gettingStarted": "打开中文版仿真，调整轨道或摩擦，观察图表与运动如何一起变化。",
+      "costAndLimits": "HTML5 网页仿真免费、无需注册，可在现代浏览器运行；适合建立直觉，不替代专业工程仿真。",
+      "links": [
+        {
+          "label": "中文仿真",
+          "url": "https://phet.colorado.edu/zh_CN/simulations/energy-skate-park-basics"
+        }
+      ],
+      "verifiedOn": "2026-10-29"
+    },
+    {
+      "id": "standard-ebooks-wilde",
+      "name": "Standard Ebooks：The Importance of Being Earnest",
+      "category": "艺术",
+      "summary": "提供认真校对与排版的英文公版电子书，也可在线阅读。",
+      "useCase": "阅读经典作品时减少低质量扫描、排版和错字带来的干扰。",
+      "gettingStarted": "从王尔德这部喜剧的第一幕开始，先读十分钟，观察人物如何谈论身份、婚姻与体面。",
+      "costAndLimits": "免费；网站按美国公版规则收录，其他地区需核对当地版权。原文有双关和时代用语，并非分级读物。",
+      "links": [
+        {
+          "label": "在线阅读",
+          "url": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/text"
+        }
+      ],
+      "verifiedOn": "2026-10-29"
+    }
+  ]
+}
