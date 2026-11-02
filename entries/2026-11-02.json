@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-02",
+  "title": "每日实用发现｜批量改名，看懂公式，翻阅文化档案",
+  "intro": "三个帮助整理文件、理解数学和探索历史的实用入口。",
+  "items": [
+    {
+      "id": "powerrename",
+      "name": "PowerRename",
+      "category": "效率工具",
+      "summary": "批量替换文件名，并在执行前预览结果。",
+      "useCase": "统一整理照片、资料和导出文件的名称，减少逐个修改。",
+      "gettingStarted": "安装官方 PowerToys 并启用 PowerRename，选中几份文件副本，右键进入工具试一次替换。",
+      "costAndLimits": "免费开源，仅适用于 Windows；需要安装 PowerToys。先核对预览，避免误改扩展名。",
+      "links": [
+        {
+          "label": "微软功能说明",
+          "url": "https://learn.microsoft.com/windows/powertoys/powerrename"
+        },
+        {
+          "label": "官方安装入口",
+          "url": "https://learn.microsoft.com/en-us/windows/powertoys/install"
+        }
+      ],
+      "verifiedOn": "2026-11-02"
+    },
+    {
+      "id": "geogebra-calculator-suite",
+      "name": "GeoGebra Calculator Suite",
+      "category": "学习",
+      "summary": "在浏览器里画函数、做几何构造，直观看到公式变化。",
+      "useCase": "比较不同参数下的曲线，帮助理解公式而不只记忆表达式。",
+      "gettingStarted": "打开计算器，分别输入 y=x^2 和 y=(x-2)^2+1，观察抛物线的平移。",
+      "costAndLimits": "个人非商业学习可免费使用；商业用途另有许可要求。",
+      "links": [
+        {
+          "label": "打开计算器",
+          "url": "https://www.geogebra.org/calculator"
+        },
+        {
+          "label": "许可说明",
+          "url": "https://www.geogebra.org/license"
+        }
+      ],
+      "verifiedOn": "2026-11-02"
+    },
+    {
+      "id": "europeana",
+      "name": "Europeana",
+      "category": "艺术",
+      "summary": "检索欧洲博物馆、图书馆和档案馆的老照片、书籍与声音。",
+      "useCase": "相比单一美术馆，更适合沿城市、器物或生活主题探索文化史。",
+      "gettingStarted": "搜索 bicycle 并筛选图片，比较不同时代的自行车设计。",
+      "costAndLimits": "公开浏览免费，部分内容需跳转馆藏机构；转载前逐件核对权利声明，免费浏览不等于可自由使用。",
+      "links": [
+        {
+          "label": "开始探索",
+          "url": "https://www.europeana.eu/en"
+        },
+        {
+          "label": "检索与权限指南",
+          "url": "https://www.europeana.eu/en/help/search-tips"
+        }
+      ],
+      "verifiedOn": "2026-11-02"
+    }
+  ]
+}
