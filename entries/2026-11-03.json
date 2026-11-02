@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "title": "每日实用发现｜查英语搭配，对比文件，听世界电台",
+  "intro": "从真实例句和文件差异，到城市此刻的声音。",
+  "items": [
+    {
+      "id": "antconc",
+      "name": "AntConc",
+      "category": "学习",
+      "summary": "把同一个词在多篇文章中的上下文并排展示，观察真实搭配。",
+      "useCase": "读英语材料时，不只查词义，也比较词语在句子里怎样使用。",
+      "gettingStarted": "将几篇 UTF-8 文本作为 Quick Corpus 导入，在 KWIC 中搜索 big 或 large，比较上下文。",
+      "costAndLimits": "软件免费，需使用桌面电脑；需自行准备合适文本，例句质量取决于所选材料。",
+      "links": [
+        {
+          "label": "作者官网",
+          "url": "https://www.laurenceanthony.net/software/antconc/"
+        },
+        {
+          "label": "官方手册",
+          "url": "https://www.laurenceanthony.net/software/antconc/releases/AntConc442/docs/help.pdf"
+        }
+      ],
+      "verifiedOn": "2026-11-03"
+    },
+    {
+      "id": "winmerge",
+      "name": "WinMerge",
+      "category": "效率工具",
+      "summary": "对比两份文件或文件夹，高亮显示差异。",
+      "useCase": "核对文本修改，或检查备份文件夹是否缺少文件。",
+      "gettingStarted": "在 File → Open 中选择左右两份文件或文件夹，先只查看差异。",
+      "costAndLimits": "免费开源，适用于 Windows；复制、删除和合并会改动文件，它不是自动备份工具。",
+      "links": [
+        {
+          "label": "官方网站",
+          "url": "https://winmerge.org/"
+        },
+        {
+          "label": "文件夹比较说明",
+          "url": "https://manual.winmerge.org/en/Compare_dirs.html"
+        }
+      ],
+      "verifiedOn": "2026-11-03"
+    },
+    {
+      "id": "radio-garden",
+      "name": "Radio Garden",
+      "category": "生活",
+      "summary": "转动地球、选择城市，收听当地网络电台。",
+      "useCase": "接触不同地方的音乐与日常声音，也可作为自然语速听力素材。",
+      "gettingStarted": "打开地图，点一座城市的绿点，挑一个电台听三分钟。",
+      "costAndLimits": "有免费收听入口，手机 App 含广告及付费 Premium；需要联网，电台可用性受地区限制。本次核对官方说明，未实播验证。",
+      "links": [
+        {
+          "label": "打开电台地图",
+          "url": "https://radio.garden/"
+        },
+        {
+          "label": "官方介绍",
+          "url": "https://radio.garden/settings/radio-garden"
+        }
+      ],
+      "verifiedOn": "2026-11-03"
+    }
+  ]
+}
