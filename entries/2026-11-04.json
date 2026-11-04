@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-04",
+  "title": "每日实用发现｜整理扫描件，认识星空",
+  "intro": "两个帮助整理纸质资料、探索夜空的工具。",
+  "items": [
+    {
+      "id": "naps2",
+      "name": "NAPS2",
+      "category": "效率工具",
+      "summary": "扫描纸质资料并整理页面，可通过 OCR 制作可搜索的 PDF。",
+      "useCase": "把旧讲义或纸质说明书扫描归档，之后按文字查找。",
+      "gettingStarted": "连接扫描仪，扫描几页材料，调整页序后启用 OCR 并保存 PDF。",
+      "costAndLimits": "免费开源，支持 Windows、macOS 和 Linux；需要扫描设备，OCR 识别结果仍需核对。",
+      "links": [{"label": "官方入口", "url": "https://www.naps2.com/"}],
+      "verifiedOn": "2026-11-04"
+    },
+    {
+      "id": "stellarium",
+      "name": "Stellarium",
+      "category": "学习",
+      "summary": "在电脑上模拟不同时间的星空，认识星座、行星和其他天体。",
+      "useCase": "出门观星前查看所在地点的天空，或练习辨认星座。",
+      "gettingStarted": "打开官网的网页版，设置位置和时间，试着寻找月亮或一颗亮星。",
+      "costAndLimits": "电脑桌面版免费开源；实际观测受天气和光污染影响。",
+      "links": [{"label": "官方入口", "url": "https://stellarium.org/"}],
+      "verifiedOn": "2026-11-04"
+    }
+  ]
+}
