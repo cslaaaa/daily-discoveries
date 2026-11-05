@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-05",
+  "title": "每日实用发现｜剪录音，认植物，布置房间",
+  "intro": "从整理声音到观察自然，再到模拟家具布局。",
+  "items": [
+    {
+      "id": "audacity",
+      "name": "Audacity",
+      "category": "效率工具",
+      "summary": "录制和编辑音频，剪去停顿、调整音量或降低噪声。",
+      "useCase": "整理一段朗读或采访录音，去掉开头空白和口误。",
+      "gettingStarted": "从官网下载桌面版，导入一段录音，选中空白部分剪除后导出。",
+      "costAndLimits": "桌面软件免费开源，支持 Windows、macOS 和 Linux；额外云存储可能收费，官方没有手机版。",
+      "links": [{"label": "官方入口", "url": "https://www.audacityteam.org/faq/"}],
+      "verifiedOn": "2026-11-05"
+    },
+    {
+      "id": "seek-by-inaturalist",
+      "name": "Seek by iNaturalist",
+      "category": "生活",
+      "summary": "用手机镜头尝试识别植物、昆虫和其他生物。",
+      "useCase": "散步时了解路边植物，把观察到的生物作为自然学习线索。",
+      "gettingStarted": "安装 Seek，将镜头对准植物或昆虫，查看识别提示。",
+      "costAndLimits": "免费，无订阅，不必注册；识别可能出错，不能作为食用野生植物或蘑菇的依据。",
+      "links": [{"label": "官方入口", "url": "https://www.inaturalist.org/pages/seek_app"}],
+      "verifiedOn": "2026-11-05"
+    },
+    {
+      "id": "sweet-home-3d",
+      "name": "Sweet Home 3D",
+      "category": "生活",
+      "summary": "绘制二维房间布局、摆放家具并查看三维效果。",
+      "useCase": "购买或移动家具前，按尺寸比较书桌靠窗和靠墙的布局。",
+      "gettingStarted": "从官网下载免费桌面版，画出房间轮廓，再放入家具调整位置。",
+      "costAndLimits": "官网提供免费桌面版本；应用商店和手机版有收费版本，附带素材可能不同。实际摆放前仍需核对尺寸。",
+      "links": [{"label": "官方入口", "url": "https://www.sweethome3d.com/download/"}],
+      "verifiedOn": "2026-11-05"
+    }
+  ]
+}
