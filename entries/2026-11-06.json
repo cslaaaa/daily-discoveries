@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "title": "每日实用发现｜离线找路，编辑图片，间隔复习",
+  "intro": "三个帮助出行、处理图片和记住知识的工具。",
+  "items": [
+    {
+      "id": "organic-maps",
+      "name": "Organic Maps",
+      "category": "生活",
+      "summary": "下载地图后离线搜索地点，并获取步行、骑行或驾车导航。",
+      "useCase": "出门前保存目的地地图，在网络不稳定时找路。",
+      "gettingStarted": "打开应用，提前下载目的地区域地图，再搜索并保存常去地点。",
+      "costAndLimits": "免费开源，无广告；需要提前下载地图，地图来自 OpenStreetMap，不提供实时路况。",
+      "links": [{"label": "官方入口", "url": "https://organicmaps.app/"}],
+      "verifiedOn": "2026-11-06"
+    },
+    {
+      "id": "photopea",
+      "name": "Photopea",
+      "category": "效率工具",
+      "summary": "在浏览器中编辑图片，也能打开 PSD 文件并修改图层。",
+      "useCase": "临时修改 PSD 中的文字或裁剪图片，无需先安装桌面软件。",
+      "gettingStarted": "打开网页，导入一份图片或 PSD 副本，修改后导出 PNG 或 JPG。",
+      "costAndLimits": "基础使用免费，免费版有广告；付费版可去广告。较适合用电脑、大屏幕和鼠标操作。",
+      "links": [{"label": "官方入口", "url": "https://www.photopea.com/learn/"}],
+      "verifiedOn": "2026-11-06"
+    },
+    {
+      "id": "anki",
+      "name": "Anki",
+      "category": "学习",
+      "summary": "根据回忆难度安排下次复习时间，卡片可包含图片、音频和公式。",
+      "useCase": "把容易忘记的概念做成简短问答，通过间隔复习巩固。",
+      "gettingStarted": "先把今天学到的五个概念各做成一张问答卡，按提示复习。",
+      "costAndLimits": "桌面版和 Android 版免费，AnkiWeb 提供免费同步；官方 iPhone 和 iPad 应用收费，价格以当地商店为准。",
+      "links": [{"label": "官方入口", "url": "https://apps.ankiweb.net/"}],
+      "verifiedOn": "2026-11-06"
+    }
+  ]
+}
