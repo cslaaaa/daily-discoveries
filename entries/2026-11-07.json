@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-07",
+  "title": "每日实用发现｜整理数据，练棋，调背景音",
+  "intro": "三个帮助清理表格、练习国际象棋和选择环境声的工具。",
+  "items": [
+    {
+      "id": "openrefine",
+      "name": "OpenRefine",
+      "category": "效率工具",
+      "summary": "整理表格中多余空格和写法相近的内容，辅助统一名称。",
+      "useCase": "处理 CSV 时，检查同一个名称是否出现多个写法。",
+      "gettingStarted": "导入一份表格副本，选择一列，用聚类功能查看并确认需要统一的名称。",
+      "costAndLimits": "免费开源，需要在电脑安装运行；聚类建议需人工核对，使用外部匹配等联网功能时可能传输数据。",
+      "links": [{"label": "官方入口", "url": "https://openrefine.org/"}],
+      "verifiedOn": "2026-11-06"
+    },
+    {
+      "id": "lichess",
+      "name": "Lichess",
+      "category": "学习",
+      "summary": "提供国际象棋入门、战术练习和棋谱分析。",
+      "useCase": "从棋子走法开始，或者选一个战术主题练习几分钟。",
+      "gettingStarted": "打开基础课程学习走法，或在练习页面选择一个战术主题。",
+      "costAndLimits": "免费、无广告；部分练习无需登录，保存进度需注册，深度服务器分析有每日限额。",
+      "links": [{"label": "官方入口", "url": "https://lichess.org/practice"}],
+      "verifiedOn": "2026-11-06"
+    },
+    {
+      "id": "mynoise",
+      "name": "myNoise",
+      "category": "生活",
+      "summary": "在线选择和调整白噪音等背景声音。",
+      "useCase": "阅读或休息时，试着调整声音层次，找到听着舒服的背景音。",
+      "gettingStarted": "打开白噪音页面，低音量试听不同预设，再调整声音。",
+      "costAndLimits": "有免费音景，捐赠可解锁更多内容；网站与手机应用权益分开。默认仅供个人私人使用，公开视频配乐需另查授权。",
+      "links": [{"label": "官方入口", "url": "https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php"}],
+      "verifiedOn": "2026-11-06"
+    }
+  ]
+}
