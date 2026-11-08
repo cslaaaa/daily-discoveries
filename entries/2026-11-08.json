@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-08",
+  "title": "每日实用发现｜画流程，听外语，查维修",
+  "intro": "从结构图和外语音频，到动手之前的维修指南。",
+  "items": [
+    {
+      "id": "drawio",
+      "name": "draw.io",
+      "category": "效率工具",
+      "summary": "绘制流程图、组织图和系统图，并导出或保存到本机。",
+      "useCase": "需要比手绘白板更规整的流程和系统结构图时，整理步骤与连接关系。",
+      "gettingStarted": "打开网页，新建空白图，用方框和箭头画出一个简单工作流程。",
+      "costAndLimits": "网页版和桌面版免费、无需注册；部分企业集成收费，实时协作需要支持的云端存储。",
+      "links": [{"label": "官方入口", "url": "https://app.diagrams.net/"}],
+      "verifiedOn": "2026-11-08"
+    },
+    {
+      "id": "language-transfer",
+      "name": "Language Transfer",
+      "category": "学习",
+      "summary": "通过音频里的问答和推理练习，入门西班牙语等外语。",
+      "useCase": "听到问题时暂停，先自己组织答案，再听讲解。",
+      "gettingStarted": "从课程页面选一门语言，播放第一课并在提问处暂停回答。",
+      "costAndLimits": "免费；多数课程使用英语讲解，不同语言的课程完整程度不同。官方应用支持离线收听。",
+      "links": [{"label": "官方入口", "url": "https://www.languagetransfer.org/courses"}],
+      "verifiedOn": "2026-11-08"
+    },
+    {
+      "id": "ifixit",
+      "name": "iFixit",
+      "category": "生活",
+      "summary": "按设备型号查看分步骤维修指南、故障排查和所需工具。",
+      "useCase": "先了解旧设备的维修难度和步骤，再决定自己处理还是送修。",
+      "gettingStarted": "搜索设备的准确型号，先通读指南并核对所需工具。",
+      "costAndLimits": "维修指南免费，工具和零件另购；并非所有型号都有指南。鼓包电池等情况存在安全风险，勿贸然拆修。",
+      "links": [{"label": "官方入口", "url": "https://www.ifixit.com/"}],
+      "verifiedOn": "2026-11-08"
+    }
+  ]
+}
