@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-09",
+  "title": "每日实用发现｜转动图，学课程，查旅行",
+  "intro": "把短视频变成动图，找一门免费课程，再为下一次出行查资料。",
+  "items": [
+    {
+      "id": "ezgif-video-to-gif",
+      "name": "Ezgif：视频转 GIF",
+      "category": "效率工具",
+      "summary": "把视频片段转成 GIF 动图，方便展示操作步骤或分享短片段。",
+      "useCase": "需要把一小段屏幕演示或视频动作做成可循环播放的动图时。",
+      "gettingStarted": "打开视频转 GIF 页面，选取视频并设置片段的开始与结束时间，再生成动图。",
+      "costAndLimits": "免费，上传文件上限为 200 MB，上传文件会在一小时后自动删除；也可选择本地处理，但部分功能受限。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://ezgif.com/video-to-gif"
+        }
+      ],
+      "verifiedOn": "2026-11-09"
+    },
+    {
+      "id": "openlearn",
+      "name": "OpenLearn",
+      "category": "学习",
+      "summary": "免费学习英国开放大学的英语授课课程，按自己的节奏阅读学习材料。",
+      "useCase": "想补充一个领域的入门知识，并练习阅读英文学习资料时。",
+      "gettingStarted": "打开课程目录，选择感兴趣的课程，从第一节开始阅读；需要保存学习进度时再注册免费账户。",
+      "costAndLimits": "课程免费，免注册即可阅读；保存进度和获取学习证明需要免费账户，证明不计入学历学分。",
+      "links": [
+        {
+          "label": "官方课程目录",
+          "url": "https://www.open.edu/openlearn/free-courses/full-catalogue"
+        }
+      ],
+      "verifiedOn": "2026-11-09"
+    },
+    {
+      "id": "wikivoyage",
+      "name": "Wikivoyage（维基导游）",
+      "category": "生活",
+      "summary": "免费多语言旅行指南，汇集目的地概况、交通和游览信息。",
+      "useCase": "规划行程前先了解目的地，整理需要进一步核实的交通与景点信息。",
+      "gettingStarted": "从中文首页搜索城市或地区，先看抵达、交通与游览章节，再核对官方资料。",
+      "costAndLimits": "免费、无需注册；内容由社区维护，价格、开放时间及签证要求应再向官方核实。",
+      "links": [
+        {
+          "label": "中文入口",
+          "url": "https://zh.wikivoyage.org/wiki/首页"
+        }
+      ],
+      "verifiedOn": "2026-11-09"
+    }
+  ]
+}
