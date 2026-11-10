@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-10",
+  "title": "每日实用发现｜压视频，读教材，按食材做饭",
+  "intro": "给视频减小体积，找一本免费英文教材，再用已有食材寻找今晚的菜谱。",
+  "items": [
+    {
+      "id": "handbrake",
+      "name": "HandBrake",
+      "category": "效率工具",
+      "summary": "通过重新编码转换和压缩视频，按用途平衡文件体积与画质。",
+      "useCase": "需要缩小录屏或视频文件，方便保存、传输和播放时。",
+      "gettingStarted": "从官网下载桌面版，打开一段视频，选择合适的预设，先编码短片段并对比画质和大小。",
+      "costAndLimits": "免费开源，支持 Windows、macOS 和 Linux；需要安装。压缩通常会重新编码并损失部分画质，不属于无损剪辑，处理时间取决于设置和电脑性能。",
+      "links": [
+        {
+          "label": "官方功能说明",
+          "url": "https://handbrake.fr/features.php"
+        }
+      ],
+      "verifiedOn": "2026-11-10"
+    },
+    {
+      "id": "openstax",
+      "name": "OpenStax",
+      "category": "学习",
+      "summary": "提供可在线阅读或下载 PDF 的免费英文教材，涵盖数学、科学、经济学等学科。",
+      "useCase": "想按教材结构补充基础知识，或找一章内容系统复习时。",
+      "gettingStarted": "打开学科目录，选一本适合自己程度的教材，先看目录，再在线阅读或下载 PDF。",
+      "costAndLimits": "教材在线版和 PDF 免费，纸质书收费；部分学习或教学资源需要账户。教材以英语为主，适合具备一定英文阅读基础的人。",
+      "links": [
+        {
+          "label": "官方教材目录",
+          "url": "https://openstax.org/subjects"
+        }
+      ],
+      "verifiedOn": "2026-11-10"
+    },
+    {
+      "id": "supercook",
+      "name": "SuperCook",
+      "category": "生活",
+      "summary": "根据家里已有的食材匹配菜谱，帮助决定可以做什么。",
+      "useCase": "冰箱里还有几种食材，但暂时想不出如何搭配做一餐时。",
+      "gettingStarted": "打开网站，把现有蔬菜、主食和调味料加入食材清单，再从匹配结果挑一道菜并通读步骤。",
+      "costAndLimits": "官方 iOS 应用免费；菜谱来自外部网站，跳转后可能遇到广告或付费墙。匹配结果不保证适合个人饮食限制，烹饪前需核对配料和过敏原。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.supercook.com/"
+        }
+      ],
+      "verifiedOn": "2026-11-10"
+    }
+  ]
+}
