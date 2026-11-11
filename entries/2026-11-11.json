@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-11",
+  "title": "每日实用发现｜查标准，约时间，读冬景",
+  "intro": "核对商品上的国家标准，安排跨时区会面，再读一篇老舍笔下的冬日散文。",
+  "items": [
+    {
+      "id": "samr-open-standards",
+      "name": "国家标准全文公开",
+      "category": "生活",
+      "summary": "按标准号或名称查询国家标准，查看标准状态及可公开的全文。",
+      "useCase": "看到商品包装上的执行标准，想核对标准名称及是否现行时。",
+      "gettingStarted": "输入包装上的标准号或相关名称，打开结果，先核对标准名称和状态，再查看可用全文。",
+      "costAndLimits": "免费查询；部分标准只提供题录信息或在线阅读，不能下载全文。查到某项标准不代表产品通过检测或认证。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://openstd.samr.gov.cn/bzgk/std/index"
+        }
+      ],
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "id": "timeanddate-meeting-planner",
+      "name": "timeanddate Meeting Planner",
+      "category": "效率工具",
+      "summary": "对照多个城市在指定日期的时间，帮助选择跨时区会面时段，并自动考虑当地夏令时。",
+      "useCase": "需要和不同国家或地区的人约会议、通话，避免手算时差时。",
+      "gettingStarted": "选择会面日期和各方所在城市，生成时间对照表，再挑选彼此方便的时段。",
+      "costAndLimits": "基础网页功能免费，有广告；时间表不等于参与者有空，还需自行核对当地假期并确认安排。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.timeanddate.com/worldclock/meeting.html"
+        }
+      ],
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "id": "cnr-jinan-winter",
+      "name": "央广网《济南的冬天》",
+      "category": "艺术",
+      "summary": "在线阅读老舍散文《济南的冬天》原文与简短赏析，感受山、水和薄雪的冬日描写。",
+      "useCase": "想用几分钟读一篇中文散文，或重温写景文章的表达方法时。",
+      "gettingStarted": "先通读原文，再挑一处写雪或水的段落，对照页面赏析重读。",
+      "costAndLimits": "免费公开阅读，页面提供原文与简短赏析；音频播放未验证，本次只推荐文字内容。",
+      "links": [
+        {
+          "label": "原文与赏析",
+          "url": "https://m.cnr.cn/news/20191120/t20191120_524864811.html"
+        }
+      ],
+      "verifiedOn": "2026-11-11"
+    }
+  ]
+}
