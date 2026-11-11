@@ -75,6 +75,11 @@
       "date": "2026-11-10",
       "path": "entries/2026-11-10.json",
       "sha256": "816eb6d029c83323d00aa1a1fb05ef2db5c9c148f203a2ea21ad610d7f130461"
+    },
+    {
+      "date": "2026-11-11",
+      "path": "entries/2026-11-11.json",
+      "sha256": "e756446b1aa3f8b2abc7bd69102ef0fc320f2025ff26aff91bfcd57122dc7801"
     }
   ]
 }
