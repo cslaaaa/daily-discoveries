@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-12",
+  "title": "每日实用发现｜找文件，看敦煌，读风场",
+  "intro": "快速找到忘记位置的文件，走近敦煌壁画，再用动态地图理解全球风与洋流。",
+  "items": [
+    {
+      "id": "everything",
+      "name": "Everything",
+      "category": "效率工具",
+      "summary": "在 Windows 上按名称快速查找文件和文件夹，减少逐层翻目录的时间。",
+      "useCase": "记得文件名的一部分，却忘了保存在哪个文件夹时。",
+      "gettingStarted": "从官网下载稳定版，打开后等待文件名索引完成，再输入文件名的一部分查找。",
+      "costAndLimits": "免费，适用于 Windows；正文搜索不建立内容索引，速度较慢。NTFS 索引需要 Everything 服务或管理员权限。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.voidtools.com/"
+        }
+      ],
+      "verifiedOn": "2026-11-12"
+    },
+    {
+      "id": "digital-dunhuang",
+      "name": "数字敦煌",
+      "category": "艺术",
+      "summary": "在线观赏敦煌高清壁画与洞窟全景，放大查看绘画细节和空间布局。",
+      "useCase": "想了解敦煌艺术，或在参观前后细看壁画与洞窟时。",
+      "gettingStarted": "进入资源库，选择莫高窟第 257 窟，先看洞窟全景，再查看壁画细节。",
+      "costAndLimits": "资源库免费；部分壁画页面有登录入口。转载或商业使用资源需取得版权许可。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.e-dunhuang.com/"
+        }
+      ],
+      "verifiedOn": "2026-11-12"
+    },
+    {
+      "id": "earth-nullschool",
+      "name": "earth.nullschool",
+      "category": "学习",
+      "summary": "通过动态地图观察全球风场、温度和洋流，直观理解大气与海洋的变化。",
+      "useCase": "想看清风往哪里吹、不同地区温度如何分布，或认识洋流时。",
+      "gettingStarted": "点开 earth 菜单，从“大气”的地表风开始，再切换温度或“海洋”模式查看其他图层。",
+      "costAndLimits": "基本网页免费，无需注册；画面来自数值模型，不是真实摄像画面，不能用于航海或防灾决策。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://earth.nullschool.net/zh-cn/"
+        }
+      ],
+      "verifiedOn": "2026-11-12"
+    }
+  ]
+}
