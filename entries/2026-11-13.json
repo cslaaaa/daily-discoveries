@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-13",
+  "title": "每日实用发现｜测量图像，练习乐理，整理书库",
+  "intro": "用图像提取尺寸和数量，通过短课练习识谱与听音，再把电子书整理得更好找。",
+  "items": [
+    {
+      "id": "fiji-imagej",
+      "name": "Fiji（ImageJ）",
+      "category": "效率工具",
+      "summary": "基于 ImageJ 的桌面图像分析工具，可测量长度、面积并分析颗粒。",
+      "useCase": "需要从显微照片或其他带比例尺的图像中提取尺寸与数量时。",
+      "gettingStarted": "从官网下载并打开图像，先用 Set Scale 按已知比例尺校准，再选择区域测量；颗粒分析前先检查阈值。",
+      "costAndLimits": "免费开源，需要下载桌面版；测量结果依赖正确的比例尺与阈值设置，应检查识别区域和测量单位。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://fiji.sc/"
+        }
+      ],
+      "verifiedOn": "2026-11-13"
+    },
+    {
+      "id": "musictheory-net",
+      "name": "musictheory.net",
+      "category": "艺术",
+      "summary": "提供乐理短课、识谱和听音练习，可在浏览器中逐步补充音乐基础。",
+      "useCase": "刚开始学乐器，或想利用几分钟练习音符、音程与和弦辨认时。",
+      "gettingStarted": "先从 Lessons 的基础课程开始，再到 Exercises 选一项识谱或听音练习。",
+      "costAndLimits": "网页内容免费且无广告，以英语为主；需要现代浏览器，听音练习需开启声音。iOS 应用另售。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.musictheory.net/"
+        }
+      ],
+      "verifiedOn": "2026-11-13"
+    },
+    {
+      "id": "calibre",
+      "name": "calibre",
+      "category": "效率工具",
+      "summary": "集中整理、阅读电子书，并在多种电子书格式之间转换。",
+      "useCase": "电子书散落在不同文件夹，想按作者、书名或标签整理，或转换为阅读设备支持的格式时。",
+      "gettingStarted": "从官网下载桌面版，添加几本无 DRM 的电子书，整理作者与标签，再按需要阅读或转换格式。",
+      "costAndLimits": "免费开源，需要下载桌面版；不能直接打开带 DRM 的电子书，复杂 PDF 转换后可能出现排版异常，需检查结果。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://calibre-ebook.com/"
+        }
+      ],
+      "verifiedOn": "2026-11-13"
+    }
+  ]
+}
