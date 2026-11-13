@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "title": "每日实用发现｜轻松读文件，看懂电路，细赏文物",
+  "intro": "用轻量阅读器打开文档，通过互动电路理解电流，再看看故宫馆藏的细节。",
+  "items": [
+    {
+      "id": "sumatra-pdf",
+      "name": "SumatraPDF",
+      "category": "效率工具",
+      "summary": "轻量文档阅读器，可打开 PDF、EPUB、漫画文件及多种其他格式。",
+      "useCase": "想快速查看文档，不需要复杂的编辑功能时。",
+      "gettingStarted": "从官网下载 Windows 稳定版或便携版，直接打开已有文档阅读。",
+      "costAndLimits": "免费开源，无广告和订阅；本次推荐 Windows 桌面版，主要用于阅读，不是完整的 PDF 编辑器。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.sumatrapdfreader.org/free-pdf-reader"
+        }
+      ],
+      "verifiedOn": "2026-11-14"
+    },
+    {
+      "id": "falstad-circuit-simulator",
+      "name": "Falstad 电路模拟器",
+      "category": "学习",
+      "summary": "在浏览器中调整电路元件，用动态电流与电压波形理解电路如何工作。",
+      "useCase": "学习串并联、电容充放电或基础滤波电路时。",
+      "gettingStarted": "打开 Circuits 菜单中的基础电路，点击开关观察变化，再右键元件修改参数。",
+      "costAndLimits": "免费开源，可在浏览器使用；属于电路模型仿真，不能替代实际测量和电气安全验证。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.falstad.com/circuit/"
+        }
+      ],
+      "verifiedOn": "2026-11-14"
+    },
+    {
+      "id": "palace-museum-digital-collection",
+      "name": "故宫博物院数字文物库",
+      "category": "艺术",
+      "summary": "按类别、年代浏览故宫数字馆藏，观察陶瓷、书画、玉器等文物的细节。",
+      "useCase": "想了解一类器物的纹饰与造型，或为参观补充背景时。",
+      "gettingStarted": "进入文物库，选择感兴趣的类别或年代，再打开具体藏品查看图片和介绍。",
+      "costAndLimits": "公开免费浏览；资源可供个人研究，转载、引用、摘编或下载等使用按馆方规定须取得书面同意，不可直接商用。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://digicol.dpm.org.cn/?category=0"
+        },
+        {
+          "label": "版权说明",
+          "url": "https://digicol.dpm.org.cn/page/copyright"
+        }
+      ],
+      "verifiedOn": "2026-11-14"
+    }
+  ]
+}
