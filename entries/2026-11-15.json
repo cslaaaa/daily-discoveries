@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "title": "每日实用发现｜画一张图，查一篇论文，看一会儿鸟",
+  "intro": "今天选一款矢量绘图工具、一处人文社科文献库和一扇观察鸟类的窗口。",
+  "items": [
+    {
+      "id": "inkscape",
+      "name": "Inkscape",
+      "category": "艺术",
+      "summary": "免费开源矢量绘图工具，适合制作示意图、图标和插图，原生格式为 SVG。",
+      "useCase": "需要绘制放大不模糊的示意图或可继续修改的插图时。",
+      "gettingStarted": "从官网下载对应系统版本，从简单形状、文字与连线开始绘制。",
+      "costAndLimits": "免费开源，支持 Windows、macOS、Linux；是需要安装的桌面软件，不是网页编辑器。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://inkscape.org/"
+        },
+        {
+          "label": "官方项目说明",
+          "url": "https://github.com/inkscape/inkscape/blob/master/README.md"
+        }
+      ],
+      "verifiedOn": "2026-11-15"
+    },
+    {
+      "id": "ncpssd",
+      "name": "国家哲学社会科学文献中心",
+      "category": "学习",
+      "summary": "检索文学、历史、社会学等领域文献，阅读中文期刊、外文期刊和古籍。",
+      "useCase": "想了解一个人文社科问题的研究背景，或查找相关论文时。",
+      "gettingStarted": "在首页按关键词检索，个人注册登录后使用阅读和下载功能。",
+      "costAndLimits": "公益免费，个人使用需注册登录；中文期刊论文可下载全文，外文期刊与古籍仅在线阅读，部分整合数据库有并发限制。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.ncpssd.cn/"
+        },
+        {
+          "label": "使用限制",
+          "url": "https://www.ncpssd.cn/service/question"
+        }
+      ],
+      "verifiedOn": "2026-11-15"
+    },
+    {
+      "id": "cornell-bird-cams",
+      "name": "Cornell Lab Bird Cams",
+      "category": "生活",
+      "summary": "通过鸟类直播镜头和精选片段，观察不同地区鸟类的觅食与日常活动。",
+      "useCase": "休息时看一会儿真实自然场景，顺便认识鸟类行为。",
+      "gettingStarted": "进入首页选择一个直播镜头，或先从 Video Highlights 精选片段开始观看。",
+      "costAndLimits": "免费资源，由捐赠支持；页面为英文，视频使用 YouTube，能否播放取决于所在网络环境。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.allaboutbirds.org/cams/"
+        }
+      ],
+      "verifiedOn": "2026-11-15"
+    }
+  ]
+}
