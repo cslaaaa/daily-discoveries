@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-16",
+  "title": "每日实用发现｜看清磁盘，选一门课，读一场雨",
+  "intro": "整理电脑空间，补一点新知识，再用一篇散文放慢节奏。",
+  "items": [
+    {
+      "id": "windirstat",
+      "name": "WinDirStat",
+      "category": "效率工具",
+      "summary": "用矩形面积显示 Windows 磁盘占用，快速找出大文件和占空间的文件夹。",
+      "useCase": "磁盘空间不足，却不知道空间花在哪里时。",
+      "gettingStarted": "选择一个磁盘或文件夹扫描，先按大小查看并确认文件用途，不急着删除。",
+      "costAndLimits": "免费开源，仅适用于 Windows，提供安装版和便携版；显示占用不代表文件可以安全删除。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://windirstat.net/"
+        }
+      ],
+      "verifiedOn": "2026-11-16"
+    },
+    {
+      "id": "icourse163",
+      "name": "中国大学 MOOC",
+      "category": "学习",
+      "summary": "按兴趣查找高校课程，选择免费课程系统学习一个主题。",
+      "useCase": "想从零了解一个学科，或给已有知识补基础时。",
+      "gettingStarted": "搜索感兴趣的主题，查看课程大纲、开课时间和费用，再选择一门免费课程。",
+      "costAndLimits": "学习需注册登录；免费与收费课程并存，证书属于付费服务，费用和条件以具体课程页为准，不保证对应学分或学位。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.icourse163.org/"
+        },
+        {
+          "label": "费用与使用条款",
+          "url": "https://www.icourse163.org/topics/mooc_privacy_service"
+        }
+      ],
+      "verifiedOn": "2026-11-16"
+    },
+    {
+      "id": "kunming-rain-iqilu",
+      "name": "汪曾祺《昆明的雨》",
+      "category": "艺术",
+      "summary": "从菌子、杨梅、花香与雨中小店，读一段有烟火气的昆明旧日记忆。",
+      "useCase": "想读一篇篇幅不长、细节鲜活的中文散文时。",
+      "gettingStarted": "打开闪电新闻的夜读页面，直接阅读正文，留意作者怎样用日常事物写出怀念。",
+      "costAndLimits": "页面正文可免费公开阅读，无需登录；这是经典作品阅读入口，不是新作，也不代表获得转载或商用授权。",
+      "links": [
+        {
+          "label": "原文入口",
+          "url": "https://sdxw.iqilu.com/share/YS0yMS0xNzMxMDYyNg.html"
+        }
+      ],
+      "verifiedOn": "2026-11-16"
+    }
+  ]
+}
