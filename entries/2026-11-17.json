@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-17",
+  "title": "录制操作、练习盲打与探索小行星",
+  "intro": "三项可以直接上手的工具与学习资源。",
+  "items": [
+    {
+      "id": "screentogif",
+      "name": "ScreenToGif",
+      "category": "效率工具",
+      "summary": "录制一小块屏幕，编辑后导出 GIF，适合把操作步骤变成短演示。",
+      "useCase": "说明软件操作、展示界面效果或复现问题。",
+      "gettingStarted": "从官方 GitHub Releases 下载，先录一段短操作，再删除多余帧后导出。",
+      "costAndLimits": "免费开源，适用于 Windows；需要下载桌面程序，轻量包可能需要另装 .NET Desktop Runtime。GIF 不包含声音。",
+      "links": [
+        {
+          "label": "官方项目",
+          "url": "https://github.com/NickeManarin/ScreenToGif"
+        },
+        {
+          "label": "官方下载",
+          "url": "https://github.com/NickeManarin/ScreenToGif/releases"
+        }
+      ],
+      "verifiedOn": "2026-11-17"
+    },
+    {
+      "id": "typingclub",
+      "name": "TypingClub",
+      "category": "学习",
+      "summary": "通过分级练习和指法提示学习键盘盲打。",
+      "useCase": "减少看键盘的次数，练习字母键位与打字准确率。",
+      "gettingStarted": "打开网站选择 Get Started，从基础键位开始练习。",
+      "costAndLimits": "基础网页课程免费，可不注册开始；保存学习进度可建账号，另有付费版本。需要键盘和浏览器。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.typingclub.com/"
+        }
+      ],
+      "verifiedOn": "2026-11-17"
+    },
+    {
+      "id": "nasa-eyes-on-asteroids",
+      "name": "NASA Eyes on Asteroids",
+      "category": "学习",
+      "summary": "在三维太阳系模型中观察小行星、彗星及其绕日轨道。",
+      "useCase": "直观理解近地天体轨道和太阳系空间关系。",
+      "gettingStarted": "从 NASA 介绍页进入互动资源，选择一颗小行星查看轨道。",
+      "costAndLimits": "免费，英文界面；需要现代浏览器及联网，画面是数据可视化模型，不是实时摄像画面。",
+      "links": [
+        {
+          "label": "NASA 官方介绍与入口",
+          "url": "https://science.nasa.gov/learn/heat/resource/nasa-jpl-eyes-on-asteroids-web-app/"
+        }
+      ],
+      "verifiedOn": "2026-11-17"
+    }
+  ]
+}
