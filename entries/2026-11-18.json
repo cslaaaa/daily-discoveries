@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-18",
+  "title": "备份文件、逛科技馆与听古典音乐",
+  "intro": "一项文件整理工具，两处可以慢慢探索的资源。",
+  "items": [
+    {
+      "id": "freefilesync",
+      "name": "FreeFileSync",
+      "category": "效率工具",
+      "summary": "比较两个文件夹的差异，只复制变化的文件，省去手动逐个整理备份。",
+      "useCase": "将工作文件备份到另一块硬盘或维护文件夹副本。",
+      "gettingStarted": "先选源文件夹和备份文件夹，点击比较，检查操作预览后再同步。",
+      "costAndLimits": "个人家庭使用免费，商业用途需购买对应许可；支持 Windows、macOS 和 Linux。镜像模式会删除目标端多余文件，使用前务必看预览。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://freefilesync.org/"
+        },
+        {
+          "label": "同步模式说明",
+          "url": "https://freefilesync.org/manual.php?topic=synchronization-settings"
+        }
+      ],
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "id": "china-digital-science-museum",
+      "name": "中国数字科技馆",
+      "category": "学习",
+      "summary": "集中浏览中文科普图文、视频、展品介绍和线上科技馆入口。",
+      "useCase": "从日常问题出发理解科学，或按兴趣了解科技馆展品。",
+      "gettingStarted": "从首页的“展品荟萃”或科普专题挑一个感兴趣的问题。",
+      "costAndLimits": "公开科普内容可免费浏览；个性化推荐需登录。视频和 VR 内容的播放受浏览器与网络影响，转载须遵守版权要求。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://cdstm.cn/"
+        }
+      ],
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "id": "musopen",
+      "name": "Musopen",
+      "category": "艺术",
+      "summary": "按作曲家、乐器或情绪寻找古典音乐，也能查找乐谱。",
+      "useCase": "静下来听一段古典音乐，或比较不同作品与演奏。",
+      "gettingStarted": "打开 Music，选择 Piano 或一位熟悉的作曲家，再挑一首试听。",
+      "costAndLimits": "免费 Lite 账户每天限下载 5 首音乐；无限下载等功能需付费会员。用于视频或其他公开作品前，须核对具体录音许可及适用版权规则。",
+      "links": [
+        {
+          "label": "音乐库",
+          "url": "https://musopen.org/music/"
+        },
+        {
+          "label": "免费与付费方案",
+          "url": "https://musopen.org/signup/"
+        },
+        {
+          "label": "使用说明",
+          "url": "https://musopen.org/faq/"
+        }
+      ],
+      "verifiedOn": "2026-11-18"
+    }
+  ]
+}
