@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-19",
+  "title": "离线修图、画反馈模型与看名画",
+  "intro": "从动手处理图片，到理解关系，再留一点时间看画。",
+  "items": [
+    {
+      "id": "gimp",
+      "name": "GIMP",
+      "category": "效率工具",
+      "summary": "在电脑上处理图片，进行修饰、合成和图层编辑。",
+      "useCase": "希望离线处理图片，或制作封面与图文素材。",
+      "gettingStarted": "从官网下载，先用官方入门教程练习裁剪、图层和蒙版。",
+      "costAndLimits": "免费开源，支持 Windows、macOS 和 Linux，需安装桌面软件；部分社区教程可能针对旧版本。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.gimp.org/"
+        },
+        {
+          "label": "入门教程",
+          "url": "https://www.gimp.org/tutorials/"
+        }
+      ],
+      "verifiedOn": "2026-11-19"
+    },
+    {
+      "id": "loopy",
+      "name": "LOOPY",
+      "category": "学习",
+      "summary": "用圆圈和箭头画出相互影响的关系，再运行模型观察反馈循环。",
+      "useCase": "梳理一个问题中各因素如何促进或抑制彼此。",
+      "gettingStarted": "先试玩首页示例，再画一个只有三个因素的小模型。",
+      "costAndLimits": "免费开源，浏览器使用、界面为英文；适合定性思考，模型的结果不等于经过数据验证的预测。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://ncase.me/loopy/"
+        }
+      ],
+      "verifiedOn": "2026-11-19"
+    },
+    {
+      "id": "national-gallery-directors-choice",
+      "name": "英国国家美术馆：馆长之选",
+      "category": "艺术",
+      "summary": "在线欣赏馆长挑选并讲解的 20 幅作品，比较不同画家与风格。",
+      "useCase": "用一小段空闲时间看画，听作品背后的细节与故事。",
+      "gettingStarted": "在介绍页点击 Visit online，选择一幅感兴趣的作品。",
+      "costAndLimits": "免费线上展览，英文讲解；需要启用 JavaScript 的浏览器，加载受网络影响。这是既有展览，不是新展。",
+      "links": [
+        {
+          "label": "官方展览入口",
+          "url": "https://www.nationalgallery.org.uk/visiting/virtual-tours/the-director-s-choice"
+        }
+      ],
+      "verifiedOn": "2026-11-19"
+    }
+  ]
+}
