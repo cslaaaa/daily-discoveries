@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-20",
+  "title": "剪一段视频、看懂函数与参与公众科学",
+  "intro": "三个可以动手尝试的入口：创作、理解与探索。",
+  "items": [
+    {
+      "id": "shotcut",
+      "name": "Shotcut",
+      "category": "效率工具",
+      "summary": "在本地剪辑视频、叠加文字和处理多轨素材。",
+      "useCase": "把几段素材整理成一条完整短片。",
+      "gettingStarted": "从官网下载，先完成导入素材、剪切、加文字和导出视频。",
+      "costAndLimits": "免费开源，支持 Windows、macOS 和 Linux，需下载桌面软件；高清和多轨项目对性能有要求，预览卡顿可尝试代理和降低预览分辨率。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.shotcut.org/"
+        },
+        {
+          "label": "使用与配置说明",
+          "url": "https://www.shotcut.org/FAQ/"
+        }
+      ],
+      "verifiedOn": "2026-11-20"
+    },
+    {
+      "id": "desmos-graphing",
+      "name": "Desmos 图形计算器",
+      "category": "学习",
+      "summary": "输入公式即可画出函数，用滑块直观看参数如何改变曲线。",
+      "useCase": "学习函数或快速检查公式的图像趋势。",
+      "gettingStarted": "输入 y=mx+b，添加 m、b 滑块并拖动观察。",
+      "costAndLimits": "免费，浏览器可用，有中文界面；无需登录即可作图，保存到账号需要注册或登录。",
+      "links": [
+        {
+          "label": "中文计算器",
+          "url": "https://www.desmos.com/calculator?lang=zh-CN"
+        },
+        {
+          "label": "官方使用指南",
+          "url": "https://help.desmos.com/hc/en-us/articles/202529279-Desmos-Graphing-Calculator-User-Guide"
+        }
+      ],
+      "verifiedOn": "2026-11-20"
+    },
+    {
+      "id": "zooniverse",
+      "name": "Zooniverse",
+      "category": "学习",
+      "summary": "通过辨认图像、分类或转录资料，参与真实的公众科学与人文研究。",
+      "useCase": "想接触研究原始资料，并用碎片时间贡献一点观察。",
+      "gettingStarted": "在项目页选一个感兴趣的项目，先读教程，再尝试分类。",
+      "costAndLimits": "免费参与，无需专业背景；不注册也能参与，追踪个人贡献需要账号。项目语言和开放任务各异，提交的分类不能自行改回。",
+      "links": [
+        {
+          "label": "项目入口",
+          "url": "https://www.zooniverse.org/projects"
+        },
+        {
+          "label": "参与说明",
+          "url": "https://zooniverse.freshdesk.com/support/solutions/articles/44001770570-who-can-participate-"
+        },
+        {
+          "label": "常见问题",
+          "url": "https://www.zooniverse.org/about/faq"
+        }
+      ],
+      "verifiedOn": "2026-11-20"
+    }
+  ]
+}
