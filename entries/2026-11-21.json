@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-21",
+  "title": "找回复制内容、叠加地图、读旧书里的新鲜事",
+  "intro": "一个日常小工具，一套制图工具，再加一本随时能翻开的线上杂志。",
+  "items": [
+    {
+      "id": "ditto-clipboard",
+      "name": "Ditto",
+      "category": "效率工具",
+      "summary": "记录 Windows 剪贴板历史，找回之前复制过的文字和图片。",
+      "useCase": "在几个窗口之间反复粘贴多段文字时，不必来回复制。",
+      "gettingStarted": "启动后按 Ctrl 加反引号键打开历史，双击一项粘贴。",
+      "costAndLimits": "免费开源，仅支持 Windows，有便携版，不用登录。历史保存在本机，不宜用它记录密码或验证码。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://ditto-cp.sourceforge.io/"
+        },
+        {
+          "label": "官方源码",
+          "url": "https://github.com/sabrogden/Ditto"
+        },
+        {
+          "label": "数据保存说明",
+          "url": "https://ditto-cp.sourceforge.io/PrivacyPolicy.php"
+        }
+      ],
+      "verifiedOn": "2026-11-21"
+    },
+    {
+      "id": "qgis",
+      "name": "QGIS",
+      "category": "学习",
+      "summary": "把道路、河流、地形等空间数据叠成地图，也能编辑图层和做空间分析。",
+      "useCase": "做区位图，或比较不同图层之间的位置关系。",
+      "gettingStarted": "跟着官方练习导入河流和地点图层，做第一张地图。",
+      "costAndLimits": "免费开源，支持 Windows、macOS、Linux；需要安装，并自行准备数据或下载教程样例。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://www.qgis.org/"
+        },
+        {
+          "label": "第一张地图教程",
+          "url": "https://docs.qgis.org/3.44/en/docs/training_manual/basic_map/preparation.html"
+        }
+      ],
+      "verifiedOn": "2026-11-21"
+    },
+    {
+      "id": "public-domain-review",
+      "name": "The Public Domain Review",
+      "category": "艺术",
+      "summary": "从旧书、插图和档案里挑选有意思的作品，并用长文讲清背后的故事。",
+      "useCase": "想找视觉灵感，或者读一段容易被忽略的艺术与文化史。",
+      "gettingStarted": "打开 Essays，按插画、摄影或文学等主题选一篇。",
+      "costAndLimits": "英文文章免费在线阅读；印刷品另收费，转载或使用素材前要查看单篇及来源的权利标注。",
+      "links": [
+        {
+          "label": "文章入口",
+          "url": "https://publicdomainreview.org/essays/"
+        },
+        {
+          "label": "素材使用说明",
+          "url": "https://publicdomainreview.org/reusing-material/"
+        }
+      ],
+      "verifiedOn": "2026-11-21"
+    }
+  ]
+}
