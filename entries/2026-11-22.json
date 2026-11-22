@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-22",
+  "title": "对齐字幕、听语言实录、检查配色",
+  "intro": "三个小入口，帮你把字幕调准、多听一种语言，或让文字更容易看清。",
+  "items": [
+    {
+      "id": "vlc-subtitle-sync",
+      "name": "VLC：字幕同步",
+      "category": "效率工具",
+      "summary": "播放本地视频时，可让字幕整体提前或延后，不用重剪视频。",
+      "useCase": "字幕总比人物说话快半拍或慢半拍，需要临时对齐时。",
+      "gettingStarted": "在 Windows 版播放视频时，按 G 让字幕提前、按 H 让字幕延后，每次 50 毫秒。",
+      "costAndLimits": "VLC 免费开源；这里介绍的是播放时调整，只适用于独立字幕轨或外置字幕，不能调整已烧录进画面的字幕。",
+      "links": [
+        {
+          "label": "官方简介和下载入口",
+          "url": "https://docs.videolan.me/vlc-user/en/lore/vlc/about.html"
+        },
+        {
+          "label": "官方同步说明",
+          "url": "https://docs.videolan.me/vlc-user/desktop/3.0/en/basic/settings/adjustmentsandeffects.html"
+        }
+      ],
+      "verifiedOn": "2026-11-22"
+    },
+    {
+      "id": "ucla-phonetics-archive",
+      "name": "UCLA 语音学实验室档案",
+      "category": "学习",
+      "summary": "在线查阅多种语言的原始录音、词表和田野调查扫描件。",
+      "useCase": "对照词表听不同语言或方言的发音；目录包括粤语、闽南语和吴语。",
+      "gettingStarted": "在语言索引选一门语言，打开对应词表，再点 MP3 或 WAV。",
+      "costAndLimits": "可免费浏览和下载；这是研究档案，不是结构化课程，部分资料缺项，公开再利用有非商业、署名等要求。",
+      "links": [
+        {
+          "label": "语言索引",
+          "url": "https://archive.phonetics.ucla.edu/Language%20Indices/index_available.htm"
+        },
+        {
+          "label": "使用与许可说明",
+          "url": "https://archive.phonetics.ucla.edu/archive_instructions.htm"
+        }
+      ],
+      "verifiedOn": "2026-11-22"
+    },
+    {
+      "id": "webaim-contrast-checker",
+      "name": "WebAIM 对比度检查器",
+      "category": "开发",
+      "summary": "输入文字色和背景色，查看对比度及常规文字、大字是否达到相应的网页无障碍对比要求。",
+      "useCase": "设计浅色网页或看板时，判断浅灰文字是否太淡。",
+      "gettingStarted": "粘贴两种颜色的十六进制色值，先看 Normal Text 一栏是否通过 AA。",
+      "costAndLimits": "网页工具免费，无需登录，需启用 JavaScript；只检查当前这组颜色，不能代替整页无障碍检查。",
+      "links": [
+        {
+          "label": "在线检查",
+          "url": "https://webaim.org/resources/contrastchecker/"
+        }
+      ],
+      "verifiedOn": "2026-11-22"
+    }
+  ]
+}
