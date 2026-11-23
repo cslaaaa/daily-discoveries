@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-23",
+  "title": "一键换音频设备、选图与识云",
+  "intro": "三个随手能用的办法：切设备少点几下，出图先选对图，抬头试着认朵云。",
+  "items": [
+    {
+      "id": "soundswitch",
+      "name": "SoundSwitch",
+      "category": "效率工具",
+      "summary": "给 Windows 的扬声器、耳机和麦克风设置切换快捷键。",
+      "useCase": "开会用耳机，结束后切回音箱，不必反复点系统设置。",
+      "gettingStarted": "在托盘设置里只勾选常用输出设备，再按 Ctrl + Alt + F11 轮换。",
+      "costAndLimits": "免费开源。需安装，仅支持 Windows 10 或更新版本，切换时软件需在后台运行。",
+      "links": [
+        {
+          "label": "官方下载与介绍",
+          "url": "https://soundswitch.aaflalo.me/"
+        },
+        {
+          "label": "上手指南",
+          "url": "https://soundswitch.aaflalo.me/getting-started"
+        }
+      ],
+      "verifiedOn": "2026-11-23"
+    },
+    {
+      "id": "from-data-to-viz",
+      "name": "From Data to Viz",
+      "category": "学习",
+      "summary": "按数据类型用决策树选图，附示例和常见误区。",
+      "useCase": "有了数据却不确定用散点图、折线图还是箱线图时。",
+      "gettingStarted": "在首页选数据类型，再看候选图和它会忽略哪些信息。",
+      "costAndLimits": "英文网页免费浏览，实体海报另售。它是选图指南，不上传数据代你制图；案例代码以 R 为主。",
+      "links": [
+        {
+          "label": "选图决策树",
+          "url": "https://www.data-to-viz.com/"
+        },
+        {
+          "label": "项目介绍",
+          "url": "https://www.data-to-viz.com/about.html"
+        }
+      ],
+      "verifiedOn": "2026-11-23"
+    },
+    {
+      "id": "wmo-international-cloud-atlas",
+      "name": "世界气象组织《国际云图集》",
+      "category": "生活",
+      "summary": "对照照片和形状说明，辨认天空里的卷云、积云等云属。",
+      "useCase": "散步或拍照时，想知道头顶那片云叫什么。",
+      "gettingStarted": "打开云识别指南，先看云是丝状、团状还是铺成一层，再比对示意图。",
+      "costAndLimits": "免费在线浏览，有简体中文。适合观察和入门辨云，不提供实时天气预报。",
+      "links": [
+        {
+          "label": "简体中文入口",
+          "url": "https://cloudatlas.wmo.int/zh-hans/home.html"
+        },
+        {
+          "label": "图解识云指南",
+          "url": "https://cloudatlas.wmo.int/en/cloud-identification-guide.html"
+        }
+      ],
+      "verifiedOn": "2026-11-23"
+    }
+  ]
+}
