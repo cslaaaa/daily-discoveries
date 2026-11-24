@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-24",
+  "title": "读懂视频参数、规划实验、看古文原文",
+  "intro": "从查看文件实际参数，到规划一组实验，再到随手翻一篇古文。",
+  "items": [
+    {
+      "id": "mediainfo-desktop",
+      "name": "MediaInfo 桌面版",
+      "category": "效率工具",
+      "summary": "读取视频的封装格式、编码、帧率以及每条音轨的声道数和采样率。",
+      "useCase": "两个文件后缀都是 MP4，却表现不同，先查它们实际用了什么编码。",
+      "gettingStarted": "把视频拖入桌面版，切到树状视图，分别查看视频和音频条目。",
+      "costAndLimits": "官网桌面版可免费下载，开源；在本机读取文件，无需上传。它只查看媒体参数，不转码，也不替你判断画质。",
+      "links": [
+        {
+          "label": "官方介绍与下载",
+          "url": "https://mediaarea.net/zh-CN/MediaInfo"
+        },
+        {
+          "label": "Windows 下载",
+          "url": "https://mediaarea.net/en/MediaInfo/Download/Windows"
+        }
+      ],
+      "verifiedOn": "2026-11-24"
+    },
+    {
+      "id": "nist-experimental-design",
+      "name": "NIST 工程统计手册：实验设计",
+      "category": "学习",
+      "summary": "按实验目标与变量选择设计方案，说明随机化、区组和析因实验各适用于什么问题。",
+      "useCase": "需要同时研究多个参数，又担心批次差异干扰比较时，先看怎样安排实验。",
+      "gettingStarted": "从选择实验设计一节开始，先确定想回答的问题，再列出因素和各因素的取值。",
+      "costAndLimits": "NIST 官网免费阅读，无需登录；为英文参考手册，不是自动生成方案的工具。",
+      "links": [
+        {
+          "label": "选择实验设计",
+          "url": "https://www.itl.nist.gov/div898/handbook/pri/section3/pri3.htm"
+        },
+        {
+          "label": "手册介绍",
+          "url": "https://www.nist.gov/programs-projects/nistsematech-engineering-statistics-handbook"
+        }
+      ],
+      "verifiedOn": "2026-11-24"
+    },
+    {
+      "id": "guwendao-guwen-guanzhi",
+      "name": "古文岛《古文观止》",
+      "category": "艺术",
+      "summary": "按卷查找古文原文，部分篇目还附译文、注释和赏析。",
+      "useCase": "想重读一篇熟悉的文章，或顺着目录发现同一时期的其他写法。",
+      "gettingStarted": "打开全书目录，先读一篇原文；比如卷八韩愈的《与陈给事书》。",
+      "costAndLimits": "目录和示例原文可免费浏览、无需登录；这是网页整理版，不是原书影印，研究或正式引用时应对照所用版本。",
+      "links": [
+        {
+          "label": "全书目录",
+          "url": "https://www.guwendao.net/wenyan/guanzhi.aspx"
+        },
+        {
+          "label": "《与陈给事书》原文",
+          "url": "https://www.guwendao.net/shiwenv_39f27e15be0c.aspx"
+        }
+      ],
+      "verifiedOn": "2026-11-24"
+    }
+  ]
+}
