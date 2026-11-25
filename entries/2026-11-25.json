@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-25",
+  "title": "整理参考图、查文献 DOI、读世界遗产",
+  "intro": "把图片放在手边，也把文献和遗址查到原始出处。",
+  "items": [
+    {
+      "id": "pureref-reference-board",
+      "name": "PureRef",
+      "category": "效率工具",
+      "summary": "把散落的参考图拖进一张可缩放、可置顶的画布。",
+      "useCase": "做封面或界面时，把构图、配色和字体参考放在同一处，不用在多个窗口间找图。",
+      "gettingStarted": "选择 Personal 和对应系统下载，把几张图片拖进去，再按需开启置顶。",
+      "costAndLimits": "官网个人版可自填金额，仅限个人使用；商业使用需选对应授权。",
+      "links": [
+        {
+          "label": "官方功能介绍",
+          "url": "https://www.pureref.com/"
+        },
+        {
+          "label": "下载与授权",
+          "url": "https://www.pureref.com/download.php"
+        }
+      ],
+      "verifiedOn": "2026-11-25"
+    },
+    {
+      "id": "crossref-simple-text-query",
+      "name": "Crossref Simple Text Query",
+      "category": "学习",
+      "summary": "把参考文献列表贴进去，查找可能对应的 DOI。",
+      "useCase": "整理引用时，可以批量补查 DOI，不用把每篇文献的标题分别搜索一遍。",
+      "gettingStarted": "每条文献写成一行，按编号或字母排序后粘贴提交，点开结果核对篇名、作者和年份。",
+      "costAndLimits": "免费免注册，每次最多 1,000 条；结果可能缺失或有多个候选，不等于引用已核准。",
+      "links": [
+        {
+          "label": "查询入口",
+          "url": "https://apps.crossref.org/SimpleTextQuery"
+        },
+        {
+          "label": "官方用法",
+          "url": "https://www.crossref.org/documentation/retrieve-metadata/simple-text-query/"
+        }
+      ],
+      "verifiedOn": "2026-11-25"
+    },
+    {
+      "id": "unesco-world-heritage-list",
+      "name": "联合国教科文组织世界遗产名录",
+      "category": "生活",
+      "summary": "按国家查世界遗产，在单项页面看入选理由、地图和公开档案。",
+      "useCase": "读到一个遗址时，想弄清它因什么入选、保护范围包括哪些地方。",
+      "gettingStarted": "从中国名录点进良渚古城遗址，读中文简介，再打开 Maps 或 Documents。",
+      "costAndLimits": "网页免费免登录；部分档案只有外文，地图是遗产资料，不是实时游览指南。",
+      "links": [
+        {
+          "label": "中国名录",
+          "url": "https://whc.unesco.org/en/statesparties/cn"
+        },
+        {
+          "label": "良渚古城遗址",
+          "url": "https://whc.unesco.org/en/list/1592/"
+        }
+      ],
+      "verifiedOn": "2026-11-25"
+    }
+  ]
+}
