@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-26",
+  "title": "空格预览、图像卷积与钱塘古海塘",
+  "intro": "今天看一个省操作的工具、一个图像处理例子和一篇杭州工程史短文。",
+  "items": [
+    {
+      "id": "quicklook-windows",
+      "name": "QuickLook：空格预览文件",
+      "category": "效率工具",
+      "summary": "在 Windows 资源管理器里预览图片、PDF 等文件，不必打开原应用。",
+      "useCase": "在几个文件名相近的截图里找对的那张。",
+      "gettingStarted": "从项目页安装并运行，在资源管理器选中一张图片，按空格。",
+      "costAndLimits": "免费开源，仅 Windows；部分格式需插件。",
+      "links": [
+        {
+          "label": "官方项目",
+          "url": "https://github.com/QL-Win/QuickLook"
+        }
+      ],
+      "verifiedOn": "2026-11-26"
+    },
+    {
+      "id": "image-kernels-visual",
+      "name": "Image Kernels：看懂图像卷积",
+      "category": "学习",
+      "summary": "用一张灰度图解释 3×3 矩阵如何把一个像素和它的邻居合成新的像素值。",
+      "useCase": "弄清为什么模糊会抹平细节，而边缘检测会留下轮廓。",
+      "gettingStarted": "先读像素乘权重再求和的例子，再对照模糊和边缘检测。",
+      "costAndLimits": "免费英文网页；页面的交互演示需要浏览器运行 JavaScript。",
+      "links": [
+        {
+          "label": "原文教程",
+          "url": "https://setosa.io/ev/image-kernels/"
+        }
+      ],
+      "verifiedOn": "2026-11-26"
+    },
+    {
+      "id": "qiantang-seawall-archaeology",
+      "name": "钱江新城古海塘考古",
+      "category": "生活",
+      "summary": "杭州日报采访考古人员，讲钱江新城地下发现的柴塘、条块石塘和鱼鳞石塘。",
+      "useCase": "看看古人防潮时，怎样用柴土交替堆筑，或把石条错缝叠放。",
+      "gettingStarted": "从「杭州因‘塘’而存」读起，再回看发掘出的双塘结构。",
+      "costAndLimits": "免费阅读，无需登录；这是考古报道，不是参观指南。",
+      "links": [
+        {
+          "label": "杭州日报原文",
+          "url": "https://z.hangzhou.com.cn/2019/whhzrycr/content/content_7651037.html"
+        }
+      ],
+      "verifiedOn": "2026-11-26"
+    }
+  ]
+}
