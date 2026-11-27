@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-27",
+  "title": "收好网页、看懂矩阵、查食材成分",
+  "intro": "三个小入口：把网页存成笔记，用网格理解线性变换，按统一分量比较食材。",
+  "items": [
+    {
+      "id": "obsidian-web-clipper",
+      "name": "Obsidian Web Clipper",
+      "category": "效率工具",
+      "summary": "把网页正文或划线片段保存到 Obsidian，剪藏结果是 Markdown 文件。",
+      "useCase": "读完长文后，只保留用得上的段落，之后可在笔记里检索。",
+      "gettingStarted": "从官方入口选择浏览器扩展，打开网页后高亮所需段落，再保存到笔记库。",
+      "costAndLimits": "免费开源；需要安装浏览器扩展，保存到笔记库需使用 Obsidian。",
+      "links": [
+        {
+          "label": "官方入口",
+          "url": "https://obsidian.md/clipper"
+        }
+      ],
+      "verifiedOn": "2026-11-27"
+    },
+    {
+      "id": "3b1b-linear-transformations",
+      "name": "3Blue1Brown：线性变换与矩阵",
+      "category": "学习",
+      "summary": "用拉伸、旋转和剪切网格的动画，说明矩阵如何把一个向量变成另一个。",
+      "useCase": "会算矩阵乘法，但还没形成几何直觉时，可以从二维例子重看一遍。",
+      "gettingStarted": "打开第 3 章，先看两个基向量如何移动，再试着预测另一个向量的去向。",
+      "costAndLimits": "免费阅读；原文为英文。",
+      "links": [
+        {
+          "label": "作者原文",
+          "url": "https://www.3blue1brown.com/lessons/linear-transformations/"
+        }
+      ],
+      "verifiedOn": "2026-11-27"
+    },
+    {
+      "id": "tfda-food-composition-data",
+      "name": "食品营养成分资料集",
+      "category": "生活",
+      "summary": "可下载食材的营养成分数据，含每 100 克数值和对应单位。",
+      "useCase": "在同一重量下比较相近食材的蛋白质、膳食纤维或钠。",
+      "gettingStarted": "在官方数据页下载 CSV，按样品名称筛选，核对样品状态和含量单位。",
+      "costAndLimits": "免费下载；是样品数据，不代表每种品牌、做法或实际份量。",
+      "links": [
+        {
+          "label": "官方数据页",
+          "url": "https://data.gov.tw/dataset/8543"
+        }
+      ],
+      "verifiedOn": "2026-11-27"
+    }
+  ]
+}
