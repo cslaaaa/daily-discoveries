@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "title": "给视频加字幕、读地形图、玩四声部",
+  "intro": "三个小入口：给一段视频做字幕，从等高线读坡度，用拖动试出歌剧和声。",
+  "items": [
+    {
+      "id": "live-translation-subtitles",
+      "name": "Live Translation & Subtitles",
+      "category": "效率工具",
+      "summary": "在 Windows 或 macOS 上用本地 Whisper 给正在播放的声音加字幕，并导出 SRT 或 WebVTT。",
+      "useCase": "给一段没有字幕的公开视频做一份可回看的带时间轴的字幕。",
+      "gettingStarted": "按项目说明安装并下载 Whisper 模型，选 Local Whisper 和浏览器音频，先试 30 秒再导出 SRT。",
+      "costAndLimits": "应用和本地字幕免费；x64 的本地 Whisper 需要 AVX2，速度和准确度取决于设备、模型和语种。可选的云服务另计。",
+      "links": [
+        {
+          "label": "项目与安装说明",
+          "url": "https://github.com/fmadore/Live-translation"
+        }
+      ],
+      "verifiedOn": "2026-11-28"
+    },
+    {
+      "id": "usgs-topographic-map-symbols",
+      "name": "美国地质调查局：地形图图例",
+      "category": "学习",
+      "summary": "用英文图例对照识别地形图上的等高线、水系、道路和建筑。",
+      "useCase": "拿到一张不熟悉的地形图时，先区分描绘地形的线和道路，再判断哪里坡更陡。",
+      "gettingStarted": "打开页面的 Fact Sheet；在等高距相同的图上，找一处线密和一处线疏的地方比较。",
+      "costAndLimits": "公开免费；示例是美国地形图，换到其他地区或图幅仍要看该图自带的图例。",
+      "links": [
+        {
+          "label": "USGS 图例教学页",
+          "url": "https://www.usgs.gov/educational-resources/topographic-map-symbols"
+        }
+      ],
+      "verifiedOn": "2026-11-28"
+    },
+    {
+      "id": "blob-opera",
+      "name": "Blob Opera",
+      "category": "艺术",
+      "summary": "在网页里拖动四个歌剧声部，改变音高和元音，听其他声部实时配和声。",
+      "useCase": "不用懂乐谱，也能听到同一个音换元音、同一段旋律加入和声后的区别。",
+      "gettingStarted": "打开声音，先只拖一个角色：上下改变音高，前后改变元音。",
+      "costAndLimits": "免费网页实验；需要浏览器支持网页音频，旧设备可能不够流畅。",
+      "links": [
+        {
+          "label": "Google Arts & Culture 实验",
+          "url": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw"
+        }
+      ],
+      "verifiedOn": "2026-11-28"
+    }
+  ]
+}
