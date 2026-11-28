@@ -160,6 +160,11 @@
       "date": "2026-11-27",
       "path": "entries/2026-11-27.json",
       "sha256": "ea153f5107929ea40da55c88235c3cab6f32248b7dc2bcf9caf50bc61d29de2c"
+    },
+    {
+      "date": "2026-11-28",
+      "path": "entries/2026-11-28.json",
+      "sha256": "64f92be79ea79781c9642394592f5bb6248eccb9a434ace4c68d176ffed680e7"
     }
   ]
 }
